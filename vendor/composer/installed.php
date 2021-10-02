@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'hcodebr/ecommerce',
+        'reference' => '4e6267a3d01841efcda14a6a498d3d174de14b62',
+        'name' => 'johnatan7/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
-        'hcodebr/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'johnatan7/ecommerce' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '4e6267a3d01841efcda14a6a498d3d174de14b62',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
